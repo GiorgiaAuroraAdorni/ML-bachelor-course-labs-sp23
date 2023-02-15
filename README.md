@@ -1,7 +1,7 @@
-# ML-bachelor-course-labs-sp22
-Labs for the Machine Learning bachelor course @ USI SP 22
+# ML-bachelor-course-labs-sp23
+Labs for the Machine Learning bachelor course @ USI SP 23
 
-This repository contains the code files for the Machine Learning Bachelor Course lab sessions for the Spring 2022 semester. Here, you will find the code used in each lab session, organised by topic and lab number.
+This repository contains the code files for the Machine Learning Bachelor Course lab sessions for the Spring 2023 semester. Here, you will find the code used in each lab session, organised by topic and lab number.
 
 ## Course Information
 
