@@ -9,9 +9,9 @@ This repository contains the code files for the Machine Learning Bachelor Course
 
 **Assistants**:
 
-- Adorni Giorgia
-- Ezzeddine Fatima
-- Manenti Alessandro
+- [Adorni Giorgia](mailto:giorgia.adorni@usi.ch)
+- [Ezzeddine Fatima](mailto:fatima.ezzeddine@usi.ch)
+- [Manenti Alessandro](mailto:alessandro.manenti@usi.ch)
 
 **Course description**: The course will address the following topics: Supervised learning: linear and nonlinear models for regression and prediction, statistical theory of learning, feature extraction and model selection. Deep learning: architectures including autoencoders, convolutional neural networks and learning procedures. Model performance assessment: cross-validation, k-fold cross-validation, leave-one-out, bootstrap. Unsupervised learning: K-means clustering, fuzzy C-means, principal component analysis.
 
